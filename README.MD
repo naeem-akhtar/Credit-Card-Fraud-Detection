@@ -5,6 +5,9 @@ Isolation Forest has been used to find the anomoly (fraud) in this project and t
 
 ## Getting started
 Create a virtual enviornment. (optional)
+```
+Download dataset https://www.kaggle.com/mlg-ulb/creditcardfraud
+```
 To install required libraries
 ```
 $ pip intall -r requirements.txt
